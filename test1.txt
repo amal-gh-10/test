@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n?a pas de nom.
+ Le num‚ro de s‚rie du volume est E857-9C49
+
+ R‚pertoire de C:\Users\ACER\Desktop\test
+
+10/10/2020  09:45    <DIR>          .
+10/10/2020  09:45    <DIR>          ..
+10/10/2020  09:45                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)   2ÿ619ÿ920ÿ384 octets libres
